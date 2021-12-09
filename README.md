@@ -1,2 +1,2 @@
-# setup
+# Package Setup
 A simple and easy-to-use web app for installing/updating, reinstalling and removing packages.
