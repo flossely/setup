@@ -1,1 +1,1 @@
-Package Setup=||=sys.setup.png=||=window.location.href='setup.php';
+Package Setup|[1]|sys.setup.png|[1]|window.location.href='setup.php';

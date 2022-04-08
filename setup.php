@@ -45,8 +45,8 @@ h2
    font-size: 20pt;
 }
 </style>
-<script src="jquery.js"></script>
-<script src="base.js"></script>
+<script src="jquery.js?rev=<?=time();?>"></script>
+<script src="base.js?rev=<?=time();?>"></script>
 </head>
 <body>
 <label>Existing Package: </label>
